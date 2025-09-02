@@ -1,1 +1,0 @@
-{"build":{"env":{"NEXT_PUBLIC_ENV":"preview"}},"rewrites":[{"source":"/(.*)","destination":"/$1"}]}
